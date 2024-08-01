@@ -2,6 +2,8 @@
 
 Path Finding in a custom office environment using Deep Q-Network (RL algorithm)
 
+![Map1](https://github.com/user-attachments/assets/82e1a7df-f1d3-4a6e-8c95-f7e1a06b2a98) | ![Map1_expl](https://github.com/user-attachments/assets/9a13e6fb-1558-49cf-96c1-9a98547eb26c)
+
 ---
 ## Published in AIR 2023 (ACM ICPS)
 Anushtup Nandy, Subash Seshastri, and Abhishek Sarkar. Maze solving using
